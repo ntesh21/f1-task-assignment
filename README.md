@@ -16,7 +16,7 @@ This repository contains the code implementation as well as documentation for th
 
 - Folder `taskB-extracted-images` contains all the image saved after extraction and detection from task B.
 
-- Task `C.docx` contains the documentation of the tasks.
+- `Task C.docx` contains the documentation of the tasks.
 
 
 
