@@ -18,7 +18,7 @@ This repository contains the code implementation as well as documentation for th
 
 - `Task C.docx` contains the documentation of the tasks.
 
-
+- Dlib whl file is for installing Dlib which is the dependency for face-recognition
 
  
 
